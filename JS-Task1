@@ -1,0 +1,28 @@
+      1. Write a blog on Difference between HTTP1.1 vs HTTP2
+
+* HTTP stands for hypertext transfer protocol & it is used in client-server communication.
+* By using HTTP user sends the request to the server & the server sends the response to the user.
+
+HTTP/1.1:
+
+In 1989, Tim Berners-Lee invented HTTP. HTTP/1.1 was its 1st standardized version that was available for use in the year 1997 for the end-users. This version presented considerable performance optimization over its precursors and changed how communication was handled between clients and servers. 
+
+HTTP/1 was known to have poor response time. With websites becoming more resource-intensive, the protocol was losing its efficiency. It progressively became essential to minimize latency and boost page load speeds.
+
+HTTP/2:
+
+HTTP/2 is the second version of HTTP with most of the shortcomings of its predecessor addressed in it. It has come with advancements in efficiency, speed, and security. Till the date, HTTP/2 is supported on almost all popular web browsers.
+
+HTTP/2 aims at simplifying, speeding up, and empowering the applications across the internet.
+
+For resource-heavy pages, it supports gradual downloading on the user’s end to improve user experience.
+
+                        HTTP/1.1 and HTTP/2
+
+* The HTTP/2 was an attempt to overcome the limitations of HTTP/1.1 and make it a more efficient web protocol. So, the major differences in these two are mainly the additions or upgrades applied in HTTP/2.
+
+------------------------------------------------------------------------------------------------------------------------
+    2. Objects and its internal representation in Javascript
+
+* Objects are important data types in javascript. Objects are different than primitive datatypes (i.e. number, string, boolean, etc.). Primitive data types contain one value but Objects can hold many values in form of Key: value pair. These keys can be variables or functions and are called properties and methods, respectively, in the context of an object.
+
